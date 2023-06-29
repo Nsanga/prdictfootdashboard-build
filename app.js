@@ -13,5 +13,5 @@ app.get('*',function (req, res) {
 
 // Start the app predictfoot
 app.listen(process.env.PORT || 3500, function() {
-    console.log("app portfolio mekinda mercure live  started")
+    console.log("dashboard predicfoot live  started")
 })
