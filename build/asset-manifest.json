@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae774541.css",
+    "main.js": "/static/js/main.59f0dad1.js",
+    "static/js/787.40d30392.chunk.js": "/static/js/787.40d30392.chunk.js",
+    "static/media/Phone_Notification.png": "/static/media/Phone_Notification.0d208189caf985fbee08.png",
+    "static/media/PredictFoot_logo.png": "/static/media/PredictFoot_logo.c7c1d1f08572f8e16b05.png",
+    "index.html": "/index.html",
+    "main.ae774541.css.map": "/static/css/main.ae774541.css.map",
+    "main.59f0dad1.js.map": "/static/js/main.59f0dad1.js.map",
+    "787.40d30392.chunk.js.map": "/static/js/787.40d30392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae774541.css",
+    "static/js/main.59f0dad1.js"
+  ]
+}
